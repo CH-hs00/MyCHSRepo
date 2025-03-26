@@ -10,4 +10,5 @@
 # OSSPrac
 
 fetch & merge
-A
+A  
+B
