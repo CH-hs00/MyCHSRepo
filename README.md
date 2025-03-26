@@ -11,4 +11,5 @@
 
 fetch & merge
 A  
-B
+B  
+C
