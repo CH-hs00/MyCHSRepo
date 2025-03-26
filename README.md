@@ -13,10 +13,7 @@ fetch & merge
 A  
 B  
 C  
-<<<<<<< HEAD
 D  
 E
-=======
 F  
 G
->>>>>>> main
